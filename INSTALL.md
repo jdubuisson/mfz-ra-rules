@@ -18,7 +18,7 @@ $ composer create-project getgrav/grav ~/webroot/mfz-rules
 
 This will create the `mzf-rules` folder and download Grav.
 
-> See (the official repo)[https://github.com/getgrav/grav] for more ways to get Grav.
+> See [the official repo](https://github.com/getgrav/grav) for more ways to get Grav.
  
 ## mfz-ra-rules : git goodness
 
