@@ -1,12 +1,12 @@
 ---
-title: Why Lego ?
+title: Why Lego® ?
 taxonomy:
     category: docs
 ---
 
-Lego has multiple advantages for wargames.
+LEGO® has multiple advantages for wargames.
 For example, many people
-already have LEGO at home that they can
+already have LEGO® at home that they can
 use to build mobile frames for MFZ:RA.
 Additionally, once a robot is built, there
 is no need to paint it up, reducing the
@@ -15,6 +15,6 @@ This is also true if a player wants to try
 out different compositions — all it takes
 is a few different bricks. Since there is
 also a large international community that
-builds these Lego robots, there is no
+builds these LEGO® robots, there is no
 shortage of inspiration for new and
 starting builders.

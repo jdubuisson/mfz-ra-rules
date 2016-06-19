@@ -6,7 +6,7 @@ taxonomy:
 
 MFZ uses what is called the 7p scale. Essentially,
 an average human is 7 plates of
-Lego tall. That means that anything else
+LEGO® tall. That means that anything else
 modeled should reflect this, so when two
 forces meet, they look roughly at the
 same dimensions. 7 plates is two bricks
@@ -25,5 +25,5 @@ can fit inside a frame — generally, the
 torso. Otherwise, MFZ has no restrictions
 on what a frame should look like, what
 colors or parts to be used, and if you
-don't want to use Legos, a Gundam model
+don't want to use LEGO®, a Gundam model
 with removable systems is fine, too.
