@@ -1,0 +1,8 @@
+name: "MZF:RA theme"
+version: 1.0.0
+description: "MZF:RA theme is the theme for the MFZ:RA rules"
+icon: book
+author:
+  name: jdubuisson
+  email: jdubuisson@users.noreply.github.com
+  url: https://github.com/jdubuisson

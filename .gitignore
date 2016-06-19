@@ -1,12 +1,13 @@
 # Grav Specific
 accounts/*
 !accounts/.*
+config/security.yaml
 data/*
 !data/.*
 plugins/*
 !plugins/.*
-themes/*
-!themes/.*
+themes/antimatter
+themes/learn2
 localhost/config/security.yaml
 
 # OS Generated
@@ -18,5 +19,4 @@ Thumbs.db
 
 # phpstorm
 .idea/*
-config/security.yaml
 

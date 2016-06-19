@@ -5,7 +5,7 @@ home:
 
 pages:
 #  theme: antimatter
-  theme: learn2
+  theme: mfz-ra-theme
   markdown_extra: false
   process:
     markdown: true
