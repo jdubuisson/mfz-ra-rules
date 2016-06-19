@@ -157,15 +157,18 @@ it up with your own attack. If you attack,
 you spot after it has resolved. You
 cannot spot cover or stations.
 
-!!! Without spotting systems, the target must be:
-!!! * within direct fire or hand to hand range
-!!! * out of cover.
-!!!
-!!! With one system, the target must be:
-!!! * within direct fire or hand-to-hand range
-!!! * can be in cover.
-!!!
-!!! With two systems, you can spot everything.
+### Without spotting systems
+The target must be:
+ * within direct fire or hand to hand range
+ * out of cover.
+
+### With one system
+The target must be:
+ * within direct fire or hand-to-hand range
+ * can be in cover.
+
+### With two systems
+You can spot everything.
 
 ## Resolving Attacks
 

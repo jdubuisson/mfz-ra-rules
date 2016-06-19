@@ -1,5 +1,5 @@
 ---
-title: Doomsday Clock.
+title: Doomsday Clock
 taxonomy:
     category: docs
 ---
