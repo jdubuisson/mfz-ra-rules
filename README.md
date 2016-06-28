@@ -5,7 +5,7 @@ This is the repository for the "Mobile Frame Zero : Rapid Attack" rules website,
 
 ## See it live
 
-The [live site](mfz-ra-rules.nanto.fr) is up and running ! 
+The [live site](http://mfz-ra-rules.nanto.fr) is up and running ! 
 
 ## Framework
 
