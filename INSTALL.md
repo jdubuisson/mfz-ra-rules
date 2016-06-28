@@ -51,6 +51,7 @@ In the root of the Grav install (`webroot/mfz-rules`) type :
 $ bin/gpm install markdown-notices
 $ bin/gpm install breadcrumbs
 $ bin/gpm install simplesearch
+$ bin/gpm install langswitcher
 ```
 
 > markdown-notices : Provides notices in MD format using !, !!, !!!, !!!!
@@ -58,6 +59,8 @@ $ bin/gpm install simplesearch
 > breadcrumbs : Provides Breadcrumbs.
 >
 > simplesearch : Provides search functions, effectively removing pages from the sidebar if they don't match the search string.
+>
+> langswitcher : provides native language text links to switch between Multiple Languages in Grav 0.9.30 or greater.
 
 ## That's it
 

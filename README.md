@@ -16,3 +16,7 @@ It uses [Learn2](https://github.com/getgrav/grav-theme-learn2), a Grav theme use
 ## Install
 
 See the simple [install procedure](INSTALL.md).
+
+## Translations
+
+Let's translate the rules ! If you're interested,  [here's how to do it](TRANSLATION.md).

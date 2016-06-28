@@ -1,5 +1,14 @@
 absolute_urls: false
 
+languages:
+  supported: [en, fr]                       # List of languages supported. eg: [en, fr, de]
+  include_default_lang: true                # Include the default lang prefix in all URLs
+  translations: true                        # Enable translations by default
+  translations_fallback: true               # Fallback through supported translations if active lang doesn't exist
+  session_store_active: false               # Store active language in session
+  http_accept_language: true               # Attempt to set the language based on http_accept_language header in the browser
+  override_locale: true                    # Override the default or system locale with language specific one
+
 home:
   alias: '/home'
 
