@@ -1,7 +1,7 @@
 absolute_urls: false
 
 languages:
-  supported: [en, fr]                       # List of languages supported. eg: [en, fr, de]
+  supported: [en, fr, pt]                       # List of languages supported. eg: [en, fr, de]
   include_default_lang: true                # Include the default lang prefix in all URLs
   translations: true                        # Enable translations by default
   translations_fallback: true               # Fallback through supported translations if active lang doesn't exist
