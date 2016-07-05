@@ -5,5 +5,5 @@ taxonomy:
 ---
 
 # Mobile Frame Zero : Rapid Attack
-Construa seus mobile frames de LEGO® ou com outros brinquedos ou figuras e os leve para luntar pelo controle da mesa de jogo!
+Construa seus mobile frames de LEGO® ou com outros brinquedos ou figuras e os leve para lutar pelo controle da mesa de jogo!
 

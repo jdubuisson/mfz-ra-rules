@@ -1,10 +1,10 @@
 ---
-title: About the contributors
+title: Sobre os contribuidores
 taxonomy:
     category: docs
 ---
 
-## Authors
+## Autores
 
 ### "Mobile Frame Zero : Rapid Attack" Official rules
 
@@ -29,9 +29,9 @@ Encontrar os autores deste resumo é um pouco complicado. Do PDF:
 
 Entre em contato pelo [GitHub](https://github.com/jdubuisson/mfz-ra-rules) se você quiser que seu nome apareçã aqui.
 
-## Contributors
+## Contribuidores
 
-### Present rules
+### Regras apresentadas
 
 As regras apresentadas aqui são baseadas nos trabalhos mencionados acima.
 
@@ -40,6 +40,6 @@ Mudanças, atualizações, clarificações e seus auores podem ser encontrados n
 Uma lista de pessoas que contribuiram mas ainda não estão listadas no GitUb :
 * Versão em português por **Vitor Faria**.
 
-### Present website
+### Website
 
 Contribuidores deste website estão listados [na página de contribuidores](https://github.com/jdubuisson/mfz-ra-rules/graphs/contributors).
