@@ -35,7 +35,7 @@ Entre em contato pelo [GitHub](https://github.com/jdubuisson/mfz-ra-rules) se vo
 
 As regras apresentadas aqui são baseadas nos trabalhos mencionados acima.
 
-Mudanças, atualizações, clarificações e seus auores podem ser encontrados no [GiitHub](https://github.com/jdubuisson/mfz-ra-rules).
+Mudanças, atualizações, clarificações e seus autores podem ser encontrados no [GiitHub](https://github.com/jdubuisson/mfz-ra-rules).
 
 Uma lista de pessoas que contribuiram mas ainda não estão listadas no GitUb :
 * Versão em português por **Vitor Faria**.
